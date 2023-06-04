@@ -54,11 +54,15 @@ Publications
 
 Scientific Education
 ======
-09/2019-07/2023: PhD Candidate, Basic mathematics
-Supervisor: Prof. Rong Yuan, Beijing Normal University, China  		 
-09/2021--09/2022: Joint training doctoral student, Applied mathematics
+09/2019-07/2023: PhD Candidate, Basic mathematics    
+
+Supervisor: Prof. Rong Yuan, Beijing Normal University, China   
+
+09/2021--09/2022: Joint training doctoral student, Applied mathematics    
+
 Supervisor: Prof. Pierre Magal, University of Bordeaux, France 
-            Prof. Quentin Griette, Universit\'e Le Havre Normandie, France 
+            Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
+	    
 09/2016--06/2019: Master degree, Mathematics
 Supervisor: Prof. Xiaoyun Wang, Taiyuan University of Technology, China	                           
 09/2011--06/2015: Bachelor degree, Mathematics and Applied Mathematics
