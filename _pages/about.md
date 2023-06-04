@@ -39,9 +39,9 @@ Research Interests
 
 Publications
 ======
-1. **M. Zhao**, R. Yuan, Z. Ma, X. Zhao, Spreading speeds for the predator-prey system with nonlocal dispersal, *Journal of Differential Equations*, 316 (2022), 552--598.[XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
-2. **M. Zhao**, Z. Ma, R. Yuan, The spreading speed and the existence of planar waves for a class of predator-prey system with nonlocal diffusion, *Taiwanese Journal of Mathematics*, 26(2) (2022), 381--410. 
-3. X. Wang, **M. Zhao**, X. Wang, S. Li, N. Cao, H. Liu, The Application of Dynamic Models to the Exploration of beta1-AR Overactivation as a Cause of Heart Failure, *Computational and Mathematical Methods in Medicine*, 2018 (2018) 1613290. 
+1. **M. Zhao**, R. Yuan, Z. Ma, X. Zhao, Spreading speeds for the predator-prey system with nonlocal dispersal, *Journal of Differential Equations*, 316 (2022), 552--598.[PDF](../assets/Curriculum_Vitae.pdf).
+2. **M. Zhao**, Z. Ma, R. Yuan, The spreading speed and the existence of planar waves for a class of predator-prey system with nonlocal diffusion, *Taiwanese Journal of Mathematics*, 26(2) (2022), 381--410. [PDF](../assets/Curriculum_Vitae.pdf).
+3. X. Wang, **M. Zhao**, X. Wang, S. Li, N. Cao, H. Liu, The Application of Dynamic Models to the Exploration of beta1-AR Overactivation as a Cause of Heart Failure, *Computational and Mathematical Methods in Medicine*, 2018 (2018) 1613290.[PDF](../assets/Curriculum_Vitae.pdf).
 4. Y. Cheng, F. Zhang, **M. Zhao**, A stochastic model of HIV infection incorporating combined therapy of HAART driven by L\'evy jumps, *Advances in Difference Equations*, 321 (2019), 1--17.
 5. **M. Zhao**, R. Yuan, Persistence of solutions in a nonlocal predator-prey system with a shifting habitat, arXiv:2306.00649. 
 6. **M. Zhao**, R. Yuan, Existence and Stability of Random Transition Waves for Nonautonomous Fisher-KPP Equations with Nonlocal Diffusion, arXiv:2305.19762. 
