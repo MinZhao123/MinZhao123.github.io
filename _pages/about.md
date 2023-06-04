@@ -40,11 +40,18 @@ Research Interests
 Publications
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. **M. Zhao**, R. Yuan, Z. Ma, X. Zhao, Spreading speeds for the predator-prey system with nonlocal dispersal, *Journal of Differential Equations*, 316 (2022), 552--598.
+2. **M. Zhao**, Z. Ma, R. Yuan, The spreading speed and the existence of planar waves for a class of predator-prey system with nonlocal diffusion, *Taiwanese Journal of Mathematics*, 26(2) (2022), 381--410. 
+3. X. Wang, **M. Zhao**, X. Wang, S. Li, N. Cao, H. Liu, The Application of Dynamic Models to the Exploration of beta1-AR Overactivation as a Cause of Heart Failure, *Computational and Mathematical Methods in Medicine*, 2018 (2018) 1613290. 
+4. Y. Cheng, F. Zhang, **M. Zhao**, A stochastic model of HIV infection incorporating combined therapy of HAART driven by L\'evy jumps, *Advances in Difference Equations*, 321 (2019), 1--17.
+5. **M. Zhao**, R. Yuan, Persistence of solutions in a nonlocal predator-prey system with a shifting habitat, arXiv:2306.00649. 
+6. **M. Zhao**, R. Yuan, Existence and Stability of Random Transition Waves for Nonautonomous Fisher-KPP Equations with Nonlocal Diffusion, arXiv:2305.19762. 
+7. Q. Griette, P. Magal, **M. Zhao**, Traveling waves with continuous profile for hyperbolic Keller-Segel equation, arXiv:2204.06920.
+8. H. Li, **M. Zhao**, R. Yuan, Traveling Wave in a Ratio-dependent Holling-Tanner System with Nonlocal Diffusion and Strong Allee Effect, arXiv:2306.00666.
+9. H. Li, **M. Zhao**, R. Yuan, Traveling Waves of Modified Leslie-Gower Predator-prey Systems,  arXiv:2306.00701.
+10. H. Li, **M. Zhao**, R. Yuan, A sufficient condition on successful invasion by the predator, arXiv:2306.00713.
+
+
 
 Site-wide configuration
 ------
