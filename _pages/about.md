@@ -62,7 +62,7 @@ Scientific Education
 
   Supervisor: Prof. Pierre Magal, University of Bordeaux, France         
   
-            Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
+  Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
 	    
 * 09/2016--06/2019: Master degree, Mathematics     
  
@@ -70,7 +70,7 @@ Scientific Education
   
 * 09/2011--06/2015: Bachelor degree, Mathematics and Applied Mathematics    
 
-                    Shanxi Datong University, China
+  Shanxi Datong University, China
 
 %-----------------------------------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
