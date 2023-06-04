@@ -54,21 +54,21 @@ Publications
 
 Scientific Education
 ======
-* 09/2019-07/2023: PhD Candidate, Basic mathematics    
+* 09/2019-07/2023: PhD student, Basic mathematics    
 
   Supervisor: Prof. Rong Yuan, Beijing Normal University, China   
 
-* 09/2021--09/2022: Joint training doctoral student, Applied mathematics    
+* 09/2021-09/2022: Joint training doctoral student, Applied mathematics    
 
   Supervisor: Prof. Pierre Magal, University of Bordeaux, France         
   
   Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
 	    
-* 09/2016--06/2019: Master degree, Mathematics     
+* 09/2016-06/2019: Master degree, Mathematics     
  
   Supervisor: Prof. Xiaoyun Wang, Taiyuan University of Technology, China     
   
-* 09/2011--06/2015: Bachelor degree, Mathematics and Applied Mathematics    
+* 09/2011-06/2015: Bachelor degree, Mathematics and Applied Mathematics    
 
   Shanxi Datong University, China
 
@@ -82,11 +82,12 @@ Research Projects
 
 Awards and Honor
 ======
-* 2022: Graduate Academic Innovation Award Special Prize
+* 2022-2023: Graduate Academic Innovation Award Special Prize  
+
   Beijing Normal University 
-* 2021: Third Class Academic Scholarship
+* 2021-2022: Third Class Academic Scholarship
   Beijing Normal University 
-* 2020: Second Class Academic Scholarship
+* 2020-2021: Second Class Academic Scholarship
   Beijing Normal University
 * 2019--2020: Outstanding undergraduate teaching assistant
    Beijing Normal University
