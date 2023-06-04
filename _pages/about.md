@@ -24,7 +24,7 @@ My name is  [academicpages template](https://github.com/academicpages/academicpa
 Research Interests 
 ======
 
-	* Partial differential equations and dynamic systems
+          *Partial differential equations and dynamic systems
 	  Reaction-diffusion equations, Nonlocal problems, Traveling waves, Spreading speed
 	* Biomathematics
 	  Prey-predator system, Nonlinear differential equation, Epidemic model
