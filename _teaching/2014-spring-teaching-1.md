@@ -8,13 +8,16 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Research Interests 
 ======
+* Partial differential equations and dynamic systems
 
-Heading 2
-======
+  Reaction-diffusion equations, Nonlocal problems, Traveling waves, Spreading speed
+	  
+* Biomathematics
 
-Heading 3
-======
+  Prey-predator system, Nonlinear differential equation, Epidemic model
+	  
+* Stochastic theory and process
+
+  Brownian motion, Ergodic, Levy process
