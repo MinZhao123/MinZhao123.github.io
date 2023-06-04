@@ -62,7 +62,7 @@ Scientific Education
 
   Supervisor: Prof. Pierre Magal, University of Bordeaux, France         
   
-   $\qquad\qquad$Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
+   Prof. Quentin Griette, Universit\'e Le Havre Normandie, France     
 	    
 * 09/2016--06/2019: Master degree, Mathematics     
  
