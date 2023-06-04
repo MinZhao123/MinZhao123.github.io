@@ -55,11 +55,15 @@ Publications
 Scientific Education
 ======
 09/2019-07/2023: PhD Candidate, Basic mathematics 
+
 	         Prof. Rong Yuan, Beijing Normal University, China  
 09/2021--09/2022: Joint training doctoral student, Applied mathematics
+
 	          Prof. Pierre Magal, University of Bordeaux, France 
+		  
 	          Prof. Quentin Griette, Universit\'e Le Havre Normandie, France 
 09/2016--06/2019: Master degree, Mathematics
+
 	          Prof. Xiaoyun Wang, Taiyuan University of Technology, China	                           
 09/2011--06/2015: Bachelor degree, Mathematics and Applied Mathematics
                   Shanxi Datong University, China
