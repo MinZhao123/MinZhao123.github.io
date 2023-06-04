@@ -55,8 +55,7 @@ Publications
 Scientific Education
 ======
 09/2019-07/2023: PhD Candidate, Basic mathematics 
-
-	         Prof. Rong Yuan, Beijing Normal University, China  
+                 Prof. Rong Yuan, Beijing Normal University, China  
 09/2021--09/2022: Joint training doctoral student, Applied mathematics
 
 	          Prof. Pierre Magal, University of Bordeaux, France 
