@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+I am a Lecturer of Mathematics working at the School of Science of Tianjin Chengjian University, China.
 I'm a Phd student from [Beijing Normal University]. My superwisor is Professor Rong Yuan.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
